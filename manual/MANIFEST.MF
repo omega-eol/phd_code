@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Class-Path: lib/args4j-2.0.21.jar lib/colt.jar lib/commons-cli-1.2.jar lib/concurrent.jar
